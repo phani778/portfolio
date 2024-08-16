@@ -4,7 +4,7 @@ import bankImage from "../images/demobank.png";
 import passwordImage from "../images/password.png";
 
 export const Bio = {
-  name: "Phami",
+  name: "Phanindhar Reddy Karnati",
   roles: [
     "Cybersecurity Analyst",
     "Ethical Hacker",
@@ -13,12 +13,12 @@ export const Bio = {
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/Shalem2020",
-  resume:"https://drive.google.com/file/d/12e1cjf9O0wJJuOTzg69E1oBhzqM_PCvd/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/shalemrajumaddirala/",
-  twitter: "https://twitter.com/ShalemRaju8247",
-  insta: "https://instagram.com/shalemrajumaddirala?igshid=OGQ5ZDc2ODk2ZA== ",
-  facebook: "https://www.facebook.com/shalem.madirala?mibextid=ZbWKwL",
+  github: "https://github.com/phani778",
+  resume:"https://drive.google.com/file/d/1p-fjsQLYJ-8spX5I3keRKwOvvPv7SPel/view?usp=sharing",
+  linkedin: "https://www.linkedin.com/in/phanindharreddykarnati/",
+  twitter: "https://x.com/whitedevil611",
+  insta: "https://www.instagram.com/re_ddey/ ",
+  facebook: "https://www.facebook.com/profile.php?id=100068869582783",
 };
 
 export const skills = [
